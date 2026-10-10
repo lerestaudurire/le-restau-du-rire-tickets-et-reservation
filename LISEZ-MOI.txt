@@ -1,0 +1,21 @@
+DESIGNS DES BILLETS - Edition 1.5
+
+Mettez ici les images des billets, avec EXACTEMENT ces noms :
+
+  standard.jpg        -> billet Standard (photo ou design)
+  vip.jpg             -> billet VIP
+  vvip.jpg            -> billet VVIP
+  sponsor.jpg         -> billet Sponsor
+  grand-sponsor.jpg   -> billet Grand Sponsor
+
+Conseils : format paysage (ex. 1200 x 500 px), JPG ou PNG renomme en .jpg, moins de 300 Ko.
+(Pour utiliser un autre nom ou le format .png, modifiez la ligne "billets" dans index.html,
+ bloc EDITION.)
+
+Ou ca s affiche :
+- a cote de chaque categorie sur les pages Reservation, Especes et En ligne (miniature),
+- un clic sur la miniature l agrandit,
+- en haut du billet QR genere depuis le tableau de bord.
+Une image absente est simplement ignoree (rien ne casse).
+
+AFFICHE OFFICIELLE : mettez affiche.jpg a cote de index.html (pas dans ce dossier).
